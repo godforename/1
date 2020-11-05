@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Polynml.cpp
+d:\code\vopesmath\src\polynml\poly.h(1085): warning C4101: “Exp”: 未引用的局部变量
+d:\code\vopesmath\src\polynml\poly.h(1085): warning C4101: “Coef”: 未引用的局部变量
+Polynml.cpp(109): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+Polynml.cpp(114): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+    正在创建库 D:\code\VopesMath\x64\Release\Polynml.lib 和对象 D:\code\VopesMath\x64\Release\Polynml.exp
+  正在生成代码
+  All 53 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Polynml.vcxproj -> D:\code\VopesMath\x64\Release\Polynml.dll
+  Polynml.vcxproj -> D:\code\VopesMath\x64\Release\Polynml.pdb (Full PDB)

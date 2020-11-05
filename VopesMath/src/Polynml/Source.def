@@ -1,0 +1,5 @@
+LIBRARY "Polynml"
+EXPORTS
+
+new_term
+poly_read

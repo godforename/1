@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{AD304321-82B6-4196-A189-FF12CFB93D02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{96D0CF1B-7CAC-4B3D-98AA-A7F3226EDB47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math_basic_test", "test\Math_basic_test\Math_basic_test.vcxproj", "{653BB2DD-F481-409B-AD9C-E1D77B261DB9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MATH_basic", "src\MATH_basic\MATH_basic.vcxproj", "{02C42D33-B373-44C4-B1A1-086EB37512B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math_graph", "src\Math_graph\Math_graph.vcxproj", "{A164797B-399C-4F00-9B37-AE5047F383BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polynml", "src\Polynml\Polynml.vcxproj", "{1EAFEA21-085A-4999-B212-468FEDA33093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Debug|x64.ActiveCfg = Debug|x64
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Debug|x64.Build.0 = Debug|x64
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Debug|x86.Build.0 = Debug|Win32
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Release|x64.ActiveCfg = Release|x64
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Release|x64.Build.0 = Release|x64
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Release|x86.ActiveCfg = Release|Win32
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9}.Release|x86.Build.0 = Release|Win32
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Debug|x64.ActiveCfg = Debug|x64
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Debug|x64.Build.0 = Debug|x64
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Debug|x86.Build.0 = Debug|Win32
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Release|x64.ActiveCfg = Release|x64
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Release|x64.Build.0 = Release|x64
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Release|x86.ActiveCfg = Release|Win32
+		{02C42D33-B373-44C4-B1A1-086EB37512B3}.Release|x86.Build.0 = Release|Win32
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Debug|x64.ActiveCfg = Debug|x64
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Debug|x64.Build.0 = Debug|x64
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Debug|x86.Build.0 = Debug|Win32
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Release|x64.ActiveCfg = Release|x64
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Release|x64.Build.0 = Release|x64
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Release|x86.ActiveCfg = Release|Win32
+		{A164797B-399C-4F00-9B37-AE5047F383BE}.Release|x86.Build.0 = Release|Win32
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Debug|x64.ActiveCfg = Debug|x64
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Debug|x64.Build.0 = Debug|x64
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Debug|x86.ActiveCfg = Debug|Win32
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Debug|x86.Build.0 = Debug|Win32
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Release|x64.ActiveCfg = Release|x64
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Release|x64.Build.0 = Release|x64
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Release|x86.ActiveCfg = Release|Win32
+		{1EAFEA21-085A-4999-B212-468FEDA33093}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{653BB2DD-F481-409B-AD9C-E1D77B261DB9} = {96D0CF1B-7CAC-4B3D-98AA-A7F3226EDB47}
+		{02C42D33-B373-44C4-B1A1-086EB37512B3} = {AD304321-82B6-4196-A189-FF12CFB93D02}
+		{A164797B-399C-4F00-9B37-AE5047F383BE} = {AD304321-82B6-4196-A189-FF12CFB93D02}
+		{1EAFEA21-085A-4999-B212-468FEDA33093} = {AD304321-82B6-4196-A189-FF12CFB93D02}
+	EndGlobalSection
+EndGlobal

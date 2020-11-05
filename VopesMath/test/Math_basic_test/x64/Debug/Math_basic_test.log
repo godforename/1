@@ -1,0 +1,2 @@
+﻿Math_basic_test.obj : error LNK2019: 无法解析的外部符号 new_term，该符号在函数 main 中被引用
+D:\code\VopesMath\x64\Debug\Math_basic_test.exe : fatal error LNK1120: 1 个无法解析的外部命令

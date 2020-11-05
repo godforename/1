@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MATH_basic.cpp
+MATH_basic.cpp(108): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+MATH_basic.cpp(267): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+    正在创建库 D:\code\VopesMath\x64\Release\MATH_basic.lib 和对象 D:\code\VopesMath\x64\Release\MATH_basic.exp
+  正在生成代码
+d:\code\vopesmath\src\math_basic\math_basic.cpp(118): warning C4715: “sign”: 不是所有的控件路径都返回值
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MATH_basic.vcxproj -> D:\code\VopesMath\x64\Release\MATH_basic.dll
+  MATH_basic.vcxproj -> D:\code\VopesMath\x64\Release\MATH_basic.pdb (Full PDB)

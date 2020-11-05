@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Math_graph.cpp
+Source.def(1): warning LNK4017: LIBRARY"Math_grapg" 语句不支持目标平台；已忽略
+    正在创建库 D:\code\VopesMath\x64\Release\Math_graph.lib 和对象 D:\code\VopesMath\x64\Release\Math_graph.exp
+  正在生成代码
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Math_graph.vcxproj -> D:\code\VopesMath\x64\Release\Math_graph.dll
+  Math_graph.vcxproj -> D:\code\VopesMath\x64\Release\Math_graph.pdb (Full PDB)

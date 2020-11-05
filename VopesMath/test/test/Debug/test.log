@@ -1,0 +1,6 @@
+﻿  源.cpp
+d:\code\vopesmath\test\test\源.cpp(6): warning C4005: “PI”: 宏重定义
+  d:\code\vopesmath\test\test\complex.h(9): note: 参见“PI”的前一个定义
+d:\code\vopesmath\test\test\源.cpp(141): warning C4018: “<”: 有符号/无符号不匹配
+  test.vcxproj -> D:\code\VopesMath\test\Debug\test.exe
+  test.vcxproj -> D:\code\VopesMath\test\Debug\test.pdb (Partial PDB)
